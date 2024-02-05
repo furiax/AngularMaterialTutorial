@@ -1,0 +1,13 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 1,
+      "comment": "vers appeltje",
+      "date": "2024-02-04T23:00:00.000Z",
+      "id": "ba50"
+    }
+  ]
+}
